@@ -1,6 +1,6 @@
 - project developed during the Object-Oriented Programming course in my second year at *University Politehnica of Bucharest*, *Faculty of Automatic Control and Computers*.
 
-- this projects implements a system for *managing* and *assigning* students to *optional university courses*.
+- this project implements a system for *managing* and *assigning* students to *optional university courses*.
 
 ### Description
 
